@@ -178,7 +178,7 @@ Proyek ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lengkap.
 ## Kontak
 
 - **Website**: https://x866bash-github-io.vercel.app
-- **Email**: contact@x866bash.dev
+- **Email**: x866bash.github@zohomail.com
 - **GitHub**: https://github.com/x866bash
 
 ---
