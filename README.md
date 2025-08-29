@@ -182,5 +182,5 @@ Proyek ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lengkap.
 - **GitHub**: https://github.com/x866bash
 
 ---
-
+[LOOK]{https://kalkulasi-data-website.vercel.app/}
 Dibuat dengan ❤️ menggunakan React dan TypeScript
